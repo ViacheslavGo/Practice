@@ -1,4 +1,0 @@
-[0719/220307:ERROR:renderer_main.cc(200)] Running without renderer sandbox
-[0719/220307:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown proxy
-[0719/220307:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize
-[0719/220307:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
